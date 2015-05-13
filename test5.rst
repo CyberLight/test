@@ -8,7 +8,8 @@ Supported only following settings
 
 Library settings
 ================
-The following settings needs to add inside "settings/dev.py"
+
+The following settings needs to add inside ``settings/dev.py`` or ``settings/prod.py``
 
 ================  =============================================
 Name              Value
